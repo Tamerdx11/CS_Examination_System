@@ -1,0 +1,14 @@
+C:\Users\Al-Quds\source\repos\CS_Examination_System\bin\Debug\net9.0\CS_Examination_System.exe
+C:\Users\Al-Quds\source\repos\CS_Examination_System\bin\Debug\net9.0\CS_Examination_System.deps.json
+C:\Users\Al-Quds\source\repos\CS_Examination_System\bin\Debug\net9.0\CS_Examination_System.runtimeconfig.json
+C:\Users\Al-Quds\source\repos\CS_Examination_System\bin\Debug\net9.0\CS_Examination_System.dll
+C:\Users\Al-Quds\source\repos\CS_Examination_System\bin\Debug\net9.0\CS_Examination_System.pdb
+C:\Users\Al-Quds\source\repos\CS_Examination_System\obj\Debug\net9.0\CS_Examination_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Al-Quds\source\repos\CS_Examination_System\obj\Debug\net9.0\CS_Examination_System.AssemblyInfoInputs.cache
+C:\Users\Al-Quds\source\repos\CS_Examination_System\obj\Debug\net9.0\CS_Examination_System.AssemblyInfo.cs
+C:\Users\Al-Quds\source\repos\CS_Examination_System\obj\Debug\net9.0\CS_Examination_System.csproj.CoreCompileInputs.cache
+C:\Users\Al-Quds\source\repos\CS_Examination_System\obj\Debug\net9.0\CS_Examination_System.dll
+C:\Users\Al-Quds\source\repos\CS_Examination_System\obj\Debug\net9.0\refint\CS_Examination_System.dll
+C:\Users\Al-Quds\source\repos\CS_Examination_System\obj\Debug\net9.0\CS_Examination_System.pdb
+C:\Users\Al-Quds\source\repos\CS_Examination_System\obj\Debug\net9.0\CS_Examination_System.genruntimeconfig.cache
+C:\Users\Al-Quds\source\repos\CS_Examination_System\obj\Debug\net9.0\ref\CS_Examination_System.dll
